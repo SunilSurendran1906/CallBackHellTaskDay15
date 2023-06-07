@@ -1,0 +1,22 @@
+body{
+  
+    justify-content: center ;
+    align-items: center;
+}
+
+
+.container{
+    display:grid;
+    justify-content: center;
+    width: 50px;
+    height: 100vh;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+span{
+ background:red;
+}
+
+p{
+    margin-bottom: 50px;
+}
